@@ -28,6 +28,7 @@
 * PHP
 * HTML
 * CSS
+* C#
 * JavaScript
 * Java
 * SQL
