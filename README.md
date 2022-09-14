@@ -1,16 +1,37 @@
-### Hi there 👋
+# CV / Resume
 
-<!--
-**Ilaeth/Ilaeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Table of contents
+* [About me](#about-me)
+* [Education](#education)
+* [Experience](#experience)
+* [Skills](#skills)
+* [Languages](#languages)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* First Name: Przemek
+* Last Name: Podlecki
+* Country: Poland
+* City: Pruszcz Gdański
+* E-mail: przemek1999.10.5@wp.pl
+* Date of birth: 05.10.1999
+
+## Education
+
+* 10.2019 - present WSB - Wyższa Szkoła Bankowa w Gdańsku
+* 2015-2018 - high school ZSOiO - Zespół Szkół Ogrodniczych i Ogólnokształcących w Pruszczu Gdańskim
+
+## Experience
+
+## Skills
+
+* PHP
+* HTML
+* CSS
+* JavaScript
+* Java
+* SQL
+
+## Languages
+
+* English - 
