@@ -34,4 +34,4 @@
 
 ## Languages
 
-* English - 
+* English
